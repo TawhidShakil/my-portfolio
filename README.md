@@ -78,7 +78,7 @@ npm run dev
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Your Name](https://my-portfolio-alpha-sand-15.vercel.app/)
+Made with ❤️ by [Md Shakil Talukdar](https://my-portfolio-alpha-sand-15.vercel.app/)
 
 - [LinkedIn](https://www.linkedin.com/in/md-shakil-talukdar-93862025b/)
 - [GitHub](https://github.com/TawhidShakil)
