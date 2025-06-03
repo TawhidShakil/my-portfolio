@@ -19,7 +19,7 @@ export default function Contact() {
                         </div>
                         <div className='mb-4'>
                             <FaPhone className='inline-block text-green-400 mr-2'></FaPhone>
-                            <span>+880 1770-590639</span>
+                            <span>+880 1770-590638</span>
                         </div>
                         <div className='mb-4'>
                             <FaMapMarkedAlt className='inline-block text-green-400 mr-2'></FaMapMarkedAlt>
