@@ -51,13 +51,19 @@ my-portfolio/
 ├── package.json
 └── vite.config.js
 
+---
+
 
 ## 🚀 Getting Started
+
+---
 
 ### Prerequisites
 
 - Node.js (v14+ recommended)
 - npm or yarn
+
+---
 
 ### Installation
 
@@ -67,6 +73,7 @@ cd my-portfolio
 npm install
 npm run dev
 
+---
 
 ## 🙋‍♂️ Author
 
@@ -74,3 +81,5 @@ Made with ❤️ by [Your Name](https://my-portfolio-alpha-sand-15.vercel.app/)
 
 - [LinkedIn](https://www.linkedin.com/in/md-shakil-talukdar-93862025b/)
 - [GitHub](https://github.com/TawhidShakil)
+
+---
