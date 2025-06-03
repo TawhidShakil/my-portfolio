@@ -50,7 +50,7 @@ my-portfolio/
 ├── index.html
 ├── package.json
 └── vite.config.js
-
+```
 ---
 
 
@@ -73,6 +73,7 @@ cd my-portfolio
 npm install
 npm run dev
 
+```
 ---
 
 ## 🙋‍♂️ Author
